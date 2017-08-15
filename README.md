@@ -1,1 +1,2 @@
-# leetcode
+# leetcod
+use python
